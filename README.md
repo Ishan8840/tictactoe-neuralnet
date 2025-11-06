@@ -172,6 +172,3 @@ Encoded: [1,0,-1,0,1,0,0,0,-1]
 This project is licensed under the MIT License.
 
 ---
-
-
-Do you want me to do that?
